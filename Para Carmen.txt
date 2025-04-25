@@ -1,0 +1,5 @@
+1.- Carmen te lo he subido todo, no se si lo que querías era esto, o que solo te subiéramos la clase CuentaBancariaHistorialTest.java, pero si entras a la clase veras que esta modificada.
+
+2.- El lunes me gustaria preguntarte como probar los tests, que no se probarlos y intentar entender un poco mas esto porque siéndote totalmente sincero me he ayudado bastante de ChatGPT, aunque ya he comprobado que se hacer una estructura Maven y subirlo a GitHub bien 😅.
+
+Gracias.
